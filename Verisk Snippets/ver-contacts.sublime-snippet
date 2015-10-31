@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="i-items bt">
+	<p><i class="fa fa-envelope-square"></i>Contact a Verisk <a href="http://iforms.iso.com/uw-lead?source=${1:pageName}" target="_blank" type="iframe" class="jcepopup" data-mediabox="width[650];height[650]">sales representative</a></p>
+	<p><i class="fa fa-envelope-square"></i>Contact Verisk <a href="/elqForms/contact-customer-support.html" target="_blank" type="iframe" class="jcepopup" data-mediabox="width[650];height[650]">Customer Support</a></p>
+	<p><i class="fa fa-phone-square"></i>Sales: ${2:888-555-1212}</p>
+	<p><i class="fa fa-phone-square"></i>FCRA: ${3:888-555-1212}</p>
+</div>
+]]></content>
+	<tabTrigger>ver-contacts</tabTrigger>
+</snippet>

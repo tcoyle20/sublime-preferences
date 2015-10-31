@@ -1,0 +1,6 @@
+  {
+  // Select what version of tidy to prefer. Valid options: php, exe, webservice. 'exe' should only be used in windows
+  "prefer_tidy": "php",
+  "show-body-only": true,
+    "new-inline-tags":     "i,video,audio,canvas,source,embed,ruby,rt,rp,keygen,menu,command,time"
+}

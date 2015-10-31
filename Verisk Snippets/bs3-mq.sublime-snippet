@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@media screen and (min-width: @screen-${1:sm,md,lg}) {
+	${2:style}
+}
+]]></content>
+	<tabTrigger>bs3-mq</tabTrigger>
+</snippet>

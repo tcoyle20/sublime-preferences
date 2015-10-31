@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a href="http://iforms.iso.com/uw-lead?source=${1:pageName}" target="_blank" type="iframe" class="jcepopup" data-mediabox="width[650];height[650]">sales representative</a>
+]]></content>
+	<tabTrigger>ver-eloqua:sales</tabTrigger>
+</snippet>
