@@ -9,8 +9,7 @@
 	"scroll_past_end": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Package Control"
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
